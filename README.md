@@ -5,7 +5,7 @@
 | Text | Text| Text |
 
 
-| Header 1  | Another header here | This is a long header |
+| Start Time                     |Duration | End Time                                                                       |
 | --------  | ------------------- | --------------------- |
-| Some data | Some more data      | data                  | 
-| data      | Some long data here | more data             | 
+| 2023-09-10 11:10:00 UTC| 10 m      | 2023-09-10 11:20:20 UTC                  | 
+
