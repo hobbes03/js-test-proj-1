@@ -1,2 +1,1 @@
-# js-test-proj-1
-Javascript Test Project 1
+<p style="text-align: center;">Text_content</p>
