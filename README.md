@@ -1,7 +1,5 @@
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+# Start Time: 2023-09-10 11:20:00
+# End Time: 2023-09-10 11:30:00
+# Duration: 10m
 ```
-Some Text
